@@ -1,2 +1,4 @@
 [submodule "./first"]
 	url = https://github.com/RustPanda/anchor-first.git
+[submodule "./second"]
+	url = https://github.com/RustPanda/anchor-second.git
